@@ -1,0 +1,14 @@
+C:\Users\Sagar\source\repos\CSharpDemoshB24\Intro_1\bin\Debug\net8.0\Intro_1.exe
+C:\Users\Sagar\source\repos\CSharpDemoshB24\Intro_1\bin\Debug\net8.0\Intro_1.deps.json
+C:\Users\Sagar\source\repos\CSharpDemoshB24\Intro_1\bin\Debug\net8.0\Intro_1.runtimeconfig.json
+C:\Users\Sagar\source\repos\CSharpDemoshB24\Intro_1\bin\Debug\net8.0\Intro_1.dll
+C:\Users\Sagar\source\repos\CSharpDemoshB24\Intro_1\bin\Debug\net8.0\Intro_1.pdb
+C:\Users\Sagar\source\repos\CSharpDemoshB24\Intro_1\obj\Debug\net8.0\Intro_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sagar\source\repos\CSharpDemoshB24\Intro_1\obj\Debug\net8.0\Intro_1.AssemblyInfoInputs.cache
+C:\Users\Sagar\source\repos\CSharpDemoshB24\Intro_1\obj\Debug\net8.0\Intro_1.AssemblyInfo.cs
+C:\Users\Sagar\source\repos\CSharpDemoshB24\Intro_1\obj\Debug\net8.0\Intro_1.csproj.CoreCompileInputs.cache
+C:\Users\Sagar\source\repos\CSharpDemoshB24\Intro_1\obj\Debug\net8.0\Intro_1.dll
+C:\Users\Sagar\source\repos\CSharpDemoshB24\Intro_1\obj\Debug\net8.0\refint\Intro_1.dll
+C:\Users\Sagar\source\repos\CSharpDemoshB24\Intro_1\obj\Debug\net8.0\Intro_1.pdb
+C:\Users\Sagar\source\repos\CSharpDemoshB24\Intro_1\obj\Debug\net8.0\Intro_1.genruntimeconfig.cache
+C:\Users\Sagar\source\repos\CSharpDemoshB24\Intro_1\obj\Debug\net8.0\ref\Intro_1.dll
